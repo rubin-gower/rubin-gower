@@ -1,5 +1,9 @@
-### Rubin Gower
-test
+# Rubin Gower
+Welcome to my github! Im currently working on a url shortner thats pinned bellow aswell as my personal portfolio [website](rubin.net.nz). lots of old progects are computer games and cant realy be on github as there HUGE files so they will be on my website. 
+
+Im allways looking to collaborate on any projects or ideas so get in contact with me at rubinsemails@gmail.com
+
+
 <!--
 **rubin-gower/rubin-gower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **if you would like to do this to your profile create a repo with the same name as your username. allso make sure it has a read me.
