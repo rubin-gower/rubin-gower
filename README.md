@@ -1,5 +1,5 @@
 # Rubin Gower
-Welcome to my github! I'm currently working on a url shortener thats pinned below as well as my personal portfolio [website](rubin.net.nz). lots of old projects are computer games and can't really be on github as there HUGE files so they will be on my website. 
+Welcome to my github! I'm currently working on a url shortener thats pinned below as well as my personal portfolio [website](http://rubin.net.nz). lots of old projects are computer games and can't really be on github as there HUGE files so they will be on my website. 
 
 
 If you like what i do or looking to collaborate on any projects or ideas so get in contact with me at rubinsemails@gmail.com
