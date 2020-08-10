@@ -12,6 +12,5 @@ We had final projects on that week and on Friday found that our program was majo
 <!--
 **rubin-gower/rubin-gower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **If you would like to do this to your profile create a repo with the same name as your username. allso make sure it has a read me.
-
 -->
 
