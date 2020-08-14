@@ -4,7 +4,7 @@
 ### current projects
 <details>
   <summary> file-shear</summary>
-I'm currently working on a file shearing program so you can send file from your laptop to your phone via QR code
+I'm currently working on a file shearing program so you can send file from your laptop to your phone via QR code<br>
    <b> the project github:</b>   https://github.com/rubin-gower/File-share
 </details>
 
