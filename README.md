@@ -1,8 +1,19 @@
 # Rubin Gower
-Welcome to my github! I'm currently working on a file file shearing program so you can send file from your laptop to your phone via QR code and my personal portfolio [website](http://rubin.net.nz). lots of old projects are computer games and can't really be on github as there HUGE files so they will be on my website. I am allso planning on having a blog on my website about projects I am making and planning to make.
+Welcome to my github! 
 
+### current projects
+I'm currently working on a file file shearing program so you can send file from your laptop to your phone via QR code and my personal portfolio [website](http://rubin.net.nz). lots of old projects are computer games and can't really be on github as there HUGE files so they will be on my website. I am allso planning on having a blog on my website about projects I am making and planning to make.
 
-If you like what i do or looking to collaborate on any projects or ideas so get in contact with me at rubinsemails@gmail.com
+### what im learning
+AWS, angular, .net
+
+### Connect with me:
+
+[<img align="left" alt="rubin.net.nz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://rubin.net.nz)
+[<img align="left" alt="rubin-gower | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rubin-gower/) 
+rubinsemails@gmail.com
+<br />
+
 
 Why is my github not more bussy? 
 During learning at dev academy we programed every day and would practice pair programming so my commits were on another person's account.
