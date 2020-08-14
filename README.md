@@ -1,10 +1,11 @@
 # Rubin Gower
-Welcome to my github! 
+ Welcome to my github!
 
 ### current projects
 <details>
   <summary> file-shear</summary>
 I'm currently working on a file shearing program so you can send file from your laptop to your phone via QR code
+   <b> the project github:</b>   https://github.com/rubin-gower/File-share
 </details>
 
 <details>
@@ -15,8 +16,8 @@ my personal portfolio website http://rubin.net.nz. lots of old projects are comp
 <details>
   <summary> URL-shortner</summary>
   I have made a url shortner with my mate ben just for fun as I find when I shorten urls I lose them and have to create them again. my site rembers what urls you have created and shows   you using local storage. <br>
-  heroku deploy:   http://smurl.herokuapp.com/ <br>
-  the project github:   https://github.com/ben-irvine/url-shortener/blob/master
+  <b> heroku deploy: </b>  http://smurl.herokuapp.com/ <br>
+   <b> the project github:</b>   https://github.com/ben-irvine/url-shortener/blob/master
 </details>
 
 ### what im learning
