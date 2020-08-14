@@ -2,7 +2,22 @@
 Welcome to my github! 
 
 ### current projects
-I'm currently working on a file file shearing program so you can send file from your laptop to your phone via QR code and my personal portfolio [website](http://rubin.net.nz). lots of old projects are computer games and can't really be on github as there HUGE files so they will be on my website. I am allso planning on having a blog on my website about projects I am making and planning to make.
+<details>
+  <summary> file-shear</summary>
+I'm currently working on a file shearing program so you can send file from your laptop to your phone via QR code
+</details>
+
+<details>
+  <summary> Portfolio site</summary>
+my personal portfolio website http://rubin.net.nz. lots of old projects are computer games and can't really be on github as there HUGE files so they will be on my website. I am allso planning on having a blog on my website about projects I am making and planning to make.
+</details>
+
+<details>
+  <summary> URL-shortner</summary>
+  I have made a url shortner with my mate ben just for fun as I find when I shorten urls I lose them and have to create them again. my site rembers what urls you have created and shows   you using local storage. <br>
+  heroku deploy:   http://smurl.herokuapp.com/ <br>
+  the project github:   https://github.com/ben-irvine/url-shortener/blob/master
+</details>
 
 ### what im learning
 AWS, angular, .net
