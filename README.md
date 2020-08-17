@@ -21,7 +21,7 @@ my personal portfolio website http://rubin.net.nz. lots of old projects are comp
 </details>
 
 ### what im learning
-AWS, angular, .net
+AWS, Angular, React Native, .Net
 
 ### Connect with me:
 
