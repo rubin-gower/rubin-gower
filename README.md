@@ -28,7 +28,7 @@ rubinsemails@gmail.com
 <br />
 
 
-Why is my github not more bussy? 
+Why is my github not more active?
 Currently dont use github for work.
 
 <!--
