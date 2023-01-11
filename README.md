@@ -13,7 +13,7 @@ I'm currently working on a file shearing program so you can send files from your
 
 <details>
   <summary> Portfolio site</summary>
-my personal portfolio website http://rubin.net.nz. lots of old projects are computer games and can't really be on github as there HUGE files so they will be on my website. I am allso planning on having a blog on my website about projects I am making and planning to make.
+my personal portfolio website https://rubin.net.nz. lots of old projects are computer games and can't really be on github as there HUGE files so they will be on my website. I am allso planning on having a blog on my website about projects I am making and planning to make.
 </details>
 
 
