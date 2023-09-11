@@ -1,9 +1,6 @@
 # Rubin Gower
  Welcome to my github!
 
-### currently working
-Currently working at [Capella consulting](https://capellaconsulting.co.nz/) as a developer.
-
 ### current projects
 <details>
   <summary> file-shear</summary>
@@ -24,15 +21,10 @@ AWS, PHP, Docker and NGinx
 
 [<img align="left" alt="rubin.net.nz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://rubin.net.nz)
 [<img align="left" alt="rubin-gower | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rubin-gower/) 
-rubinsemails@gmail.com
 <br />
 
 
 Why is my github not more active?
 Currently dont use github for work.
 
-<!--
-**rubin-gower/rubin-gower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-**If you would like to do this to your profile create a repo with the same name as your username. allso make sure it has a read me.
--->
 
